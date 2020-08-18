@@ -1,0 +1,45 @@
+.navbar{
+
+    background-color: #ca5116;
+}
+
+.navbar-brand{
+    font-family: 'Indie Flower', cursive;
+    color: black !important;
+    font-size: 2.4rem;
+    padding: 2% 35%;
+    font-weight: bold;
+}
+
+.nav-item{
+    
+    padding-left: 55%;
+    
+}
+
+.topic{
+    padding: 15% 30%;
+    color: #cf7500;
+    font-weight: bold;
+    font-size: 3.5rem;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.honey-img{
+    padding-top: 10%;
+    width: 60%;
+}
+
+.feature-box{
+    padding: 5% 5%;
+    text-align: center;
+
+    background-color: #cf7500;
+}
+
+h3{
+    padding-top: 3% ;
+    font-family: 'Righteous', cursive;
+    font-weight: bold;
+    
+}
